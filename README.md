@@ -14,6 +14,9 @@
   </tr>
 </table>
 
+Hi, I made this cool project in high school. Look at this [PDF](https://github.com/algorembrant/TB2024/blob/main/TindakBoltahe.pdf) for more info about it. It is mainly for our research paper; sadly, our school doesn't have an online library where you can read it. Moving on, here is some of the documentation of the **TindakBoltahe 2024!**
+
+
 
 <table>
   <tr>
@@ -27,7 +30,6 @@
 </table>
 
 
-
-
 https://github.com/user-attachments/assets/9e8be35a-ce90-40e5-8eca-069272f69a99
 
+*the modules got squashed, LOl!*
